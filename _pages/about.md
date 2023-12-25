@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a final-year student at PES University, Bangalore and also currently interning at Microsoft, India working with M365 Systems Group. My research interests are at the intersection of Computer Vision and Natural Language Processing.
 
-During my time at Intel,I worked on AI for model privacy and efficient training. Further in the summer of 2023, I was at Adobe 
+I have previously worked at Intel, Adobe and Siemens, trying to solve some or the other AI problem. I love sharing my ideas and brainstorming with people, please reach out to me and I assure to reply.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
