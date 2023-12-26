@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /assets/pdf/cv (2).pdf
-title: CV
+title: cv
 nav: true
 nav_order: 4
 #cv_pdf: cv (2).pdf
