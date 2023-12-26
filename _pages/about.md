@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a final-year student at PES University, Bangalore and also currently interning at Microsoft, India working with M365 Systems Group. My research interests are at the intersection of Computer Vision and Natural Language Processing.
 
-I have previously worked at Intel, Adobe and Siemens, trying to solve some or the other AI problem. I love sharing my ideas and brainstorming with people, and live in the dream that anything and everthing can be replaced by AI. I would love to chat!
+I have previously worked at Intel, Adobe and Siemens, trying to solve some or the other AI problem. I love sharing my ideas and brainstorming with people, and live in the dream that anything and everything can be replaced by AI. I would love to chat!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
